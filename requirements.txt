@@ -1,0 +1,4 @@
+colorlog
+pywin32
+selenium
+webdriver_manager
